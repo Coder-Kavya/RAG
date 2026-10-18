@@ -1,0 +1,11 @@
+employee_id,name,department,role,city,experience_years,skills
+101,Yaksh,Engineering,Software Engineer,Bengaluru,4,"C++, Python, ADAS"
+102,Chetan,Engineering,Senior Software Engineer,Pune,9,"C++, AUTOSAR, ISO 26262"
+103,Ananya,Data Science,ML Engineer,Hyderabad,3,"Python, PyTorch, RAG"
+104,Rohan,Product,Product Manager,Mumbai,6,"Roadmaps, Analytics, Agile"
+105,Meera,Design,UX Designer,Bengaluru,5,"Figma, Prototyping, Research"
+106,Vikram,Engineering,DevOps Engineer,Chennai,7,"Docker, Kubernetes, CI/CD"
+107,Sneha,Data Science,Data Analyst,Delhi,2,"SQL, Excel, Tableau"
+108,Arjun,Engineering,Backend Developer,Bengaluru,4,"Go, Python, PostgreSQL"
+109,Kavya,Data Science,Research Scientist,Hyderabad,8,"NLP, Transformers, Statistics"
+110,Imran,Product,Business Analyst,Pune,3,"Requirements, SQL, Documentation"
